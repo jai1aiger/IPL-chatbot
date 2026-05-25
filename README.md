@@ -66,7 +66,3 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ## 📝 License
 This project is open source and available under the MIT License.
-
-*** 
-
-Now you can just follow the Git steps I gave you above, and you will have an incredibly impressive GitHub repository to show off!
